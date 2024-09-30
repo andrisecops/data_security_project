@@ -8,7 +8,7 @@ Selamat datang di proyek **Data Security**! 🔒 Proyek ini dibuat untuk melindu
 1. **Clone Repo Ini**  
    Pertama-tama, clone repo ini ke komputer kamu:
 ```bash
-   git clone https://github.com/username/data_security_project.git
+   git clone https://github.com/pwnosec/data_security_project.git
    cd data_security_project
 ```
 2. **Instal Dependensi**
